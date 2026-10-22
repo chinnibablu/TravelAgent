@@ -1,0 +1,1 @@
+postgresql://entbappy:UxBepMVmvzA91eODHg3zWpZT3sjsptPE@dpg-dbcuq6bl550s73d6fjeg-a.oregon-postgres.render.com/agentmemory_w6q2
